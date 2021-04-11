@@ -4,6 +4,7 @@ This project is a iot based project done on a raspberry pi
 The Language choosen for cooding is PYTHON3
 
 The iot modules that you will require will be 
+
 1.raspberry pi4
 2.solenoid lock
 3.5V 2A AC to DC adapter
