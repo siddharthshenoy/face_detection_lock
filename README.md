@@ -1,7 +1,7 @@
 # face_detection_lock
 This project is a iot based project done on a raspberry pi 
 
-The Language choosen for cooding is PYTHON3
+The Language chosen for coding is PYTHON3
 
 The iot modules that you will require will be 
 
